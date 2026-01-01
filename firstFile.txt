@@ -1,7 +1,7 @@
-10 lines
-of
-text
-in
+10 simple 
+lines of
+Text
+from
 the
 file
 firstFile.txt
