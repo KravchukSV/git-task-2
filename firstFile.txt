@@ -6,5 +6,5 @@ the
 file
 firstFile.txt
 for
-the
-task
+the task
+with the new folder
