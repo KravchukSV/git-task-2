@@ -1,0 +1,10 @@
+10 lines
+of
+text
+in
+the
+file
+firstFile.txt
+for
+the
+task
