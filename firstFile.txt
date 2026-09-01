@@ -1,5 +1,5 @@
-10 lines
-of
+10 simple 
+lines of
 text
 in
 the
