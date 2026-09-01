@@ -1,7 +1,7 @@
 10 simple 
 lines of
-text
-in
+Text
+from
 the
 file
 firstFile.txt
